@@ -2,7 +2,7 @@
 This repository stored R codes used to create an R shiny app, which explores beta spending boundaries.
  
 # Author of this app:
-Jing Wang
+Jing Wang, 
 Michael Proschan
 
 # View app
