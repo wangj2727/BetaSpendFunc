@@ -1,6 +1,10 @@
 # BetaSpendFunc
 This repository stored R codes used to create an R shiny app, which explores beta spending boundaries.
  
+# Author of this app:
+Jing Wang
+Michael Proschan
+
 # View app
 https://jwang24.shinyapps.io/BetaSpend_v1/
 
